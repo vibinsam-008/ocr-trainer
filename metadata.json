@@ -1,0 +1,6 @@
+{
+  "name": "Edraw Diagram OCR & Structure Trainer",
+  "description": "High-accuracy Edraw diagram OCR and structure extractor with multimodal few-shot training dataset manager, canvas preprocessor, and Edraw JSON/CSV/XML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
